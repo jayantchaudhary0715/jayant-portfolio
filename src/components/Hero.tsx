@@ -128,7 +128,7 @@ export default function Hero() {
               </svg>
             </a>
             <a
-              href="mailto:Jayantchaudhary0715@gmail.com"
+              href="Jayantchaudhary0715@gmail.com"
               className="hover:text-white hover:scale-110 transition-all duration-200"
               aria-label="Send Email"
             >

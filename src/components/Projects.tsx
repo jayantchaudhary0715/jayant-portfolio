@@ -256,7 +256,7 @@ export default function Projects() {
                   Close
                 </button>
                 <a
-                  href="https://github.com"
+                  href="https://github.com/jayantchaudhary0715/PixeLock-Photo-Encryption.git"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="px-6 py-2.5 bg-primary hover:bg-primary-dark text-background text-xs font-bold rounded-xl flex items-center gap-1.5 shadow-lg shadow-primary/10 transition-colors"
