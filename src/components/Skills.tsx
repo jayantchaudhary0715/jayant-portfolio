@@ -7,7 +7,7 @@ const skillCategories = [
   {
     title: "Programming Languages",
     icon: <Code2 className="w-6 h-6 text-primary" />,
-    skills: ["Python", "Java", "C++", "C", "JavaScript"],
+    skills: ["Python", "Java", "C++", "C", "JavaScript", "TypeScript", "SQL"],
   },
   {
     title: "Backend & Web Frameworks",
@@ -17,12 +17,12 @@ const skillCategories = [
   {
     title: "Web Development",
     icon: <Globe className="w-6 h-6 text-primary" />,
-    skills: ["HTML5", "CSS3", "JavaScript", "Tailwind CSS", "Bootstrap"],
+    skills: ["HTML5", "CSS3", "JavaScript", "Tailwind CSS", "Bootstrap", "React.js", "Next.js", "Responsive Design",],
   },
   {
     title: "Databases & Design",
     icon: <Database className="w-6 h-6 text-accent-emerald" />,
-    skills: ["SQL", "SQLite3", "Database Design", "Relational Models"],
+    skills: ["SQL", "SQLite3", "Database Design", "Relational Models", "mongoDB (basic)"],
   },
   {
     title: "Core CS Fundamentals",
@@ -32,6 +32,7 @@ const skillCategories = [
       "Object-Oriented Programming (OOP)",
       "Database Management Systems (DBMS)",
       "System Design",
+      "software Engineering",
       "Operating Systems (OS)",
       "Computer Networks",
       "Compiler Design",
@@ -40,7 +41,7 @@ const skillCategories = [
   {
     title: "Tools & Platforms",
     icon: <GitBranch className="w-6 h-6 text-secondary" />,
-    skills: ["Git", "GitHub", "VS Code", "Excel", "PowerPoint"],
+    skills: ["Git", "GitHub", "VS Code", "Excel", "PowerPoint","googledocs", "Google Sheets", "Google Slides"],
   },
 ];
 
